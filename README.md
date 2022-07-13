@@ -20,7 +20,8 @@ I'm KWAHK SEUNGWOO who have weired careers for 6 years.
    + Stopped. Both API has not supported almost. They have merged already by Health Connect Android API  
   
  * MyMail - Still work
-   [ ] For making filter Gmail by Python 
+   - [ ] For making filter Gmail by Python
+      - [x] Get mails from Gmail via OAuth
  
  * MyMoney - Will work  
    + History  
@@ -31,12 +32,12 @@ I'm KWAHK SEUNGWOO who have weired careers for 6 years.
        - Download BankSalad exported Excel used by Gmail API OAuto and import after parsing  
        - Also couldn't created UI Parts  
    + Now, plan to create new MyMoney project  
-    [*] Use OpenBank API __Checked need to pay even though personal/uncommercial purpose  
-    [ ] Make new DB by MySQL via json  
-    [ ] Make UI by CSS
-    [ ] Make modules by Python  
-      [ ] Module for imported via account summary sent to e-mail attached secured html files  
-          __Done to test open with password by python and possible to parsing  
-      [ ] Module for appy discounted amount about credit card transaction  
-      [ ] Module for calculating real income/expense about bank acount transactions  
-      [ ] Module for stock trade result summary 
+    - [x] Use OpenBank API __Checked need to pay even though personal/uncommercial purpose  
+    - [ ] Make new DB by MySQL via json  
+    - [ ] Make UI by CSS
+    - [ ] Make modules by Python  
+    - [x] Module for imported via account summary sent to e-mail attached secured html files  
+        - __Done to test open with password by python and possible to parsing  
+    - [ ] Module for appy discounted amount about credit card transaction  
+    - [ ] Module for calculating real income/expense about bank acount transactions  
+    -  [ ] Module for stock trade result summary 
