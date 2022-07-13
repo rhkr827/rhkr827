@@ -12,7 +12,7 @@ I'm KWAHK SEUNGWOO who have weired careers for 6 years.
 
 ## Now
  * Unemployed state
- * Still Programming as hobby what I want to creat for me. 
+ * Still Programming as hobby what I want to  make for study. 
  
 ### Planed Programs
  * MyFitness - Dropped  
