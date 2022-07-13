@@ -6,11 +6,12 @@
 👀 Both worked in semiconductor field
 
 🖥️ IT Field Engineer 
-  - Maintenance Software system configuring Windows Server & MS-SQL
+  - Maintenance Software system configured with Windows Server & MS-SQL
 
 ⌨️ Windows Desktop App Developer
-  - Developed Software used in equipment
-  
+  - Developed Software used in equipment. 
+  - Using languages such as C++(MFC), C#, Python, Matlab and MS-SQL 
+  - Using TortoiseSVN, Jira. And Github personally but all repositories are set to private.
 
 ### Skills  
 <table><tr><td valign="top" width="33%">
