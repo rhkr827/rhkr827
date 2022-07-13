@@ -9,7 +9,7 @@
   - Maintenance Software system configuring Windows Server & MS-SQL
 
 ⌨️ Windows Desktop App Developer
-  - Developed SW using machine  
+  - Developed Software used in equipment
   
 
 ### Skills  
