@@ -1,13 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# Hi there!!!
   
-
 ### **<div align="center">😱an unemployed have weird career😜</div>**  
   
-
-
-
 ### Experience  
 **Both worked in semiconductor field
 
@@ -18,14 +12,10 @@
   - Developed SW using machine  
   
 
-
-
 ### Skills  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Working  
+### Worked
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
@@ -36,12 +26,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
 </div>
-
 </td><td valign="top" width="33%">
 
 
-
-### Studying  
+### Now Studying  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -61,7 +49,6 @@
 </td><td valign="top" width="33%"> 
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
