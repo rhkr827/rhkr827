@@ -1,6 +1,6 @@
 # Hi there!!!
   
-### **<div align="center">😱An unemployed person have weird career😜</div>**  
+### **<div align="center">😱An unemployed person have weird careers😜</div>**  
   
 ### Experience  
 👀 Both worked in semiconductor field
