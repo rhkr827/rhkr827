@@ -11,7 +11,7 @@
 ⌨️ Windows Desktop App Developer
   - Developed Software used in equipment. 
   - Using languages such as C++(MFC), C#, Python, Matlab and MS-SQL 
-  - Using TortoiseSVN, Jira. And Github personally but all repositories are set to private.
+  - Using TortoiseSVN, Jira and Github personally but all repositories are set to private.
 
 ### Skills  
 <table><tr><td valign="top" width="33%">
