@@ -43,7 +43,7 @@
 	   * 가능하면 Google Firebase와 Microsoft Azure도...(시간상 안될듯 함)
 	   
  
-  - 현재 백수 상태이며, 위의 꼐획을 마무리하기 위해 스터디와 개발 작업 중
+  - 현재 백수 상태이며, 위의 계획을 마무리하기 위해 스터디와 개발 작업 중
 
 ### Skills  
 <table><tr><td valign="top" width="33%">
