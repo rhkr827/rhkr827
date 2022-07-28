@@ -13,8 +13,8 @@
   - 반도체 장비 SW 개발
   - C++, MFC, C#, Python, MATLAB 사용
   - C++ eigen, C# MathNet, Python statsmodels/scipy/numpy을 사용한 Linear Regression Solver 개발 시도
-    o 기존 Solver가 MATLAB 사용. MATLAB Solver 대체가 목적
-	  o C#은 성능 문제로 실패, C++, Python는 일부 프로그램에서 사용 중
+    - 기존 Solver가 MATLAB 사용. MATLAB Solver 대체가 목적
+	- C#은 성능 문제로 실패, C++, Python는 일부 프로그램에서 사용 중
   - MSSQL를 사용. ODBC(MFC)와 Entity Framework 6(C#)으로 연결 또는 C# 기본 연결 기능 사용
   - Source 관리 툴로는 TortoiseSVN 사용, 프로젝트 관리는 Jira 사용
  
